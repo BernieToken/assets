@@ -1,0 +1,19 @@
+{
+  "name": "Bernie",
+  "symbol": "BERNIE",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://bernietoken.com",
+  "description": "Bernie Token is a viral meme coin powered by community.",
+  "explorer": "https://bscscan.com/token/0x1fddb6b96a0635cb114c7ad0327525e01e8d4444",
+  "status": "active",
+  "id": "0x1Fddb6b96A0635cb114c7Ad0327525e01e8D4444",
+  "links": {
+    "twitter": "https://x.com/bernietokencom",
+    "telegram": "https://t.me/bernietoken",
+    "instagram": "https://www.instagram.com/bernietoken",
+    "tiktok": "https://www.tiktok.com/@bernietoken",
+    "youtube": "https://www.youtube.com/@bernietoken"
+  },
+  "tags": ["meme", "community", "entertainment"]
+}
