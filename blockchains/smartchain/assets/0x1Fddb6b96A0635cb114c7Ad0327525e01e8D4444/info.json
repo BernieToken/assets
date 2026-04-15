@@ -11,9 +11,7 @@
   "links": [
     { "name": "twitter", "url": "https://x.com/bernietokencom" },
     { "name": "telegram", "url": "https://t.me/bernietoken" },
-    { "name": "instagram", "url": "https://www.instagram.com/bernietoken" },
-    { "name": "tiktok", "url": "https://www.tiktok.com/@bernietoken" },
     { "name": "youtube", "url": "https://www.youtube.com/@bernietoken" }
   ],
-  "tags": ["meme", "community", "entertainment"]
+  "tags": ["community", "entertainment"]
 }
